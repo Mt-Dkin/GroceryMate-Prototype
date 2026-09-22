@@ -9,45 +9,45 @@
 
 ## Overview
 
-**GroceryMate** is a mobile application concept designed to help Australian households tackle the rising cost of groceries[cite: 1]. Unlike traditional tools that only compare individual products, GroceryMate prices an entire grocery basket across nearby supermarkets (e.g., Aldi, Coles, and Woolworths) simultaneously[cite: 1]. It highlights the single cheapest store for a one-stop trip as well as the optimal multi-store split—complete with net dollar savings[cite: 1].
+**GroceryMate** is a mobile application concept designed to help Australian households tackle the rising cost of groceries. Unlike traditional tools that only compare individual products, GroceryMate prices an entire grocery basket across nearby supermarkets (e.g., Aldi, Coles, and Woolworths) simultaneously. It highlights the single cheapest store for a one-stop trip as well as the optimal multi-store split—complete with net dollar savings.
 
-This repository contains the interactive high-fidelity prototype assets and user flow documentation, including an individually developed **Meal Planner** feature extension[cite: 1].
+This repository contains the interactive high-fidelity prototype assets and user flow documentation, including an individually developed **Meal Planner** feature extension.
 
 ---
 
 ## Key Features
 
-* **Home & Budget Dashboard:** Instantly displays exact dollar savings from the prior shop, provides quick controls to adjust weekly budgets, and surfaces daily cheapest prices for favorite items[cite: 1].
-* **Full-Basket Price Comparison:** Compares a 12-item basket across major retailers at once[cite: 1]. Evaluates whether a multi-store split provides meaningful savings or if a single retailer is more economical[cite: 1].
-* **In-Store Barcode Scanner:** Features a high-contrast dark theme optimized for supermarket lighting, confirming product matches and ranking nearby store prices by distance and cost[cite: 1].
-* **Price History & Trends:** Offers per-item tracking toggles alongside price drop/rise alerts, using clear percentage and dollar metrics to illustrate trends over time[cite: 1].
-* **Integrated Meal Planner (Feature Extension):** Connects weekly meal planning directly to basket pricing[cite: 1]. Features cost-per-serve estimates, dynamic budget tips tied to weekly sales, and a one-tap action to add ingredients straight into the basket comparison[cite: 1].
+* **Home & Budget Dashboard:** Instantly displays exact dollar savings from the prior shop, provides quick controls to adjust weekly budgets, and surfaces daily cheapest prices for favorite items.
+* **Full-Basket Price Comparison:** Compares a 12-item basket across major retailers at once. Evaluates whether a multi-store split provides meaningful savings or if a single retailer is more economical.
+* **In-Store Barcode Scanner:** Features a high-contrast dark theme optimized for supermarket lighting, confirming product matches and ranking nearby store prices by distance and cost.
+* **Price History & Trends:** Offers per-item tracking toggles alongside price drop/rise alerts, using clear percentage and dollar metrics to illustrate trends over time.
+* **Integrated Meal Planner (Feature Extension):** Connects weekly meal planning directly to basket pricing. Features cost-per-serve estimates, dynamic budget tips tied to weekly sales, and a one-tap action to add ingredients straight into the basket comparison.
 
 ---
 
 ## Design System & Principles
 
-* **Brand Palette:** Green (freshness and cheapest options), Blue (trust and primary actions), White/Off-White (clarity), Amber (non-alarming budget callouts), and Dark Navy (scanner contrast)[cite: 1].
+* **Brand Palette:** Green (freshness and cheapest options), Blue (trust and primary actions), White/Off-White (clarity), Amber (non-alarming budget callouts), and Dark Navy (scanner contrast).
 * **Core UX Principles:**
-  * **Price is the hero:** Pricing and savings represent the highest-contrast elements on every screen[cite: 1].
-  * **Dollars over percentages:** Real dollar savings eliminate mental arithmetic during quick buying decisions[cite: 1].
-  * **One-handed reach:** Essential navigation and primary actions sit within comfortable thumb reach for easy use while pushing a shopping trolley[cite: 1].
+  * **Price is the hero:** Pricing and savings represent the highest-contrast elements on every screen.
+  * **Dollars over percentages:** Real dollar savings eliminate mental arithmetic during quick buying decisions.
+  * **One-handed reach:** Essential navigation and primary actions sit within comfortable thumb reach for easy use while pushing a shopping trolley.
 
 ---
 
 ## User Personas & Target Audience
 
-Targeted at budget-conscious Australian households aged 18–65, grounded in three primary personas[cite: 1]:
-* **Priya (Melbourne):** Time-poor parent who cannot manually check multiple store catalogues[cite: 1].
-* **Daniel (Geelong):** University student managing an irregular budget who needs quick, automated cost decisions[cite: 1].
-* **Margaret (Bendigo):** Retiree on a fixed income looking to verify genuine weekly specials[cite: 1].
+Targeted at budget-conscious Australian households aged 18–65, grounded in three primary personas:
+* **Priya (Melbourne):** Time-poor parent who cannot manually check multiple store catalogues.
+* **Daniel (Geelong):** University student managing an irregular budget who needs quick, automated cost decisions.
+* **Margaret (Bendigo):** Retiree on a fixed income looking to verify genuine weekly specials.
 
 ---
 
 ## Prototype Deliverables & Testing Strategy
 
-* **Figma Prototype:** Designed and tested as a clickable, high-fidelity experience to evaluate user comprehension and navigation speed before native development commitments[cite: 1].
-* **Usability Testing Plan:** Moderated remote think-aloud sessions across 5–8 participants reflecting target personas, tracking task completion, speed, and navigation friction across core flows[cite: 1].
+* **Figma Prototype:** Designed and tested as a clickable, high-fidelity experience to evaluate user comprehension and navigation speed before native development commitments.
+* **Usability Testing Plan:** Moderated remote think-aloud sessions across 5–8 participants reflecting target personas, tracking task completion, speed, and navigation friction across core flows.
 
 * ## 🛠️ Extracting & Running Code from the Figma Prototype
 
