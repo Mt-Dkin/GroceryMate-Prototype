@@ -1,5 +1,5 @@
 # GroceryMate - High-Fidelity Prototype
-# Figma Link: https://review-crisp-84254803.figma.site
+# Figma Link: [https://review-crisp-84254803.figma.site](https://www.figma.com/make/D9b0HyInJUAvUf8x0SlGQN/Grocery-Price-Comparison-App?fullscreen=1&t=iTkLoi8WC6hgprsD-1&code-node-id=0-6)
 
 > **SIT317: Task 8.2HD High-Fidelity Prototype**  
 > **Author:** Mack Turley (Student ID: s224876985)  
